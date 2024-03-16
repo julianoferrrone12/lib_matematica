@@ -55,10 +55,14 @@ sudo apt install gcc
    - Com ele instalado volte na vizualização dos arquivos do vsCode, talvez seja necessário fechar e abrir novamente o VsCode.
 
 - Agora no terminal, para executar o programa é necessário executar alguns comandos, digite:
-  - Compile os arquivos .c e .h juntos para criar um arquivo de objeto
-    ```shell script gcc -c matematica.c ```;
-  - Em seguida, compile seu programa principal juntamente com o arquivo de objeto criado anteriormente
-    ```shell script gcc main.c matematica.o -o programa_principal```;
+  - Compile os arquivos .c e .h juntos para criar um arquivo de objeto;
+    ```shell script
+    gcc -c matematica.c
+    ```
+  - Em seguida, compile seu programa principal juntamente com o arquivo de objeto criado anteriormente;
+    ```shell script
+    gcc main.c matematica.o -o programa_principal
+    ```
   - Agora execute o arquivo programa_principal e use o projeto!!;
 
     
