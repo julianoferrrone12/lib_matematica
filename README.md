@@ -7,8 +7,8 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [C]([https://www.devmedia.com.br/o-que-e-o-html5/25820](https://awari.com.br/o-que-e-linguagem-c/))
-- [MinGW]([https://developer.mozilla.org/pt-BR/docs/Web/CSS](https://www.mingw-w64.org))
+- [C]((https://awari.com.br/o-que-e-linguagem-c/))
+- [MinGW]((https://www.mingw-w64.org))
 
 ### ✅ Requirements
 
