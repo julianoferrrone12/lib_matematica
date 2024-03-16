@@ -32,7 +32,9 @@ git clone "https://github.com/julianoferrrone12/lib_matematica.git"
 cd lib_matematica
 ```
 
+
 Importante ressaltar que o projeto ele consiste na geração de um executável, que eu já disponibilizei aqui. Portanto para rodar bastar executar o arquivo "programa_principal.exe", clicando 2 vezes em cima dele ou via termional dentro do diretorio do projeto digitar o nome do arquivo "programa_principal.exe". Porém vou detalhar o que é necessário para recriar o projeto do zero.
+
 
 - Digite "code ." para abrir esse projeto no Visual Studio Code
 
