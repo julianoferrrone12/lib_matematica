@@ -23,8 +23,6 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 
 ### Getting Started 
 
-Importante ressaltar que o projeto ele consiste na geração de um executável, que eu já disponibilizei aqui. Portanto para rodar bastar executar o arquivo "programa_principal.exe", clicando 2 vezes em cima dele ou via termional dentro do diretorio do projeto digitar o nome do arquivo "programa_principal.exe". Porém vou detalhar o que é necessário para recriar o projeto do zero.
-
 - Agora abra o cmd do windows (tecla windows + r, digite cmd e clique "ok") vá no diretório de sua preferência e clone esse repositório: 
 ```shell script
 git clone "https://github.com/julianoferrrone12/lib_matematica.git"
@@ -33,7 +31,8 @@ git clone "https://github.com/julianoferrrone12/lib_matematica.git"
 ```shell script
 cd lib_matematica
 ```
-- Se quiser, agora basta executar o arquivo dentro do diretório, caso queira seguir com o tutorial siga os passos abaixo.
+
+Importante ressaltar que o projeto ele consiste na geração de um executável, que eu já disponibilizei aqui. Portanto para rodar bastar executar o arquivo "programa_principal.exe", clicando 2 vezes em cima dele ou via termional dentro do diretorio do projeto digitar o nome do arquivo "programa_principal.exe". Porém vou detalhar o que é necessário para recriar o projeto do zero.
 
 - Digite "code ." para abrir esse projeto no Visual Studio Code
 
