@@ -16,7 +16,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 - [Git](https://git-scm.com)<br />
 
 É necessário também possuir o terminal Ubuntu no Windows, deixo abaixo um link com o tutorial para a instalação e configuração do mesmo.<br />
-- [Git](https://www.hostgator.com.br/blog/como-ter-um-terminal-linux-no-windows-10/)<br />
+- [Terminal Ubuntu](https://www.hostgator.com.br/blog/como-ter-um-terminal-linux-no-windows-10/)<br />
 
 Além disto é bom ter um editor de texto para manipular o código, te indico um que eu gosto bastante:<br />
 - [VSCode](https://code.visualstudio.com/)
